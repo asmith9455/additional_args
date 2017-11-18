@@ -28,7 +28,6 @@ private:
 	int  m_y;
 
 public:
-	additional_args() {}
 
 	additional_args(int y) : m_y(y) {}
 
